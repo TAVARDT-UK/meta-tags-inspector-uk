@@ -1,4 +1,4 @@
-# Meta Tags and Open Graph Inspector | TAVARDT UK
+# Meta Tags and Open Graph Inspector
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/uk/meta-tags-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For interactive social card previews and real-time metadata testing:
 ## Technical SEO and Metadata Advisory
 
 For enterprise digital architecture, search snippet optimisation, and compliance with W3C Standards and Technical SEO Guidelines, contact the specialists at **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
