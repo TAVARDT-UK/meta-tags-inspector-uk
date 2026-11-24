@@ -1,14 +1,13 @@
 # Meta Tags and Open Graph Inspector | TAVARDT UK
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/uk/meta-tags-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Technical HTML metadata auditor inspecting title tag length, meta descriptions, social media card previews, and crawler directives.
 
-Engineered and maintained by the technical SEO and web standards practice at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+Engineered and maintained by the technical SEO and web standards practice at **TAVARDT UK**.
 
----
+***
 
 ## Metadata and Social Card Audit Capabilities
 
@@ -18,7 +17,7 @@ Engineered and maintained by the technical SEO and web standards practice at **[
 * **Indexability Directives**: Rigorous evaluation of meta robots tags and canonical link configurations.
 * **Snippet Quality Score**: Standardised 0 to 100 benchmark featuring actionable editorial recommendations.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python meta_inspector.py example.co.uk
 To output machine-readable JSON:
 
 ```bash
-python meta_inspector.py example.co.uk --json
+python meta_inspector.py example.co.uk -json
 ```
 
----
+***
 
 ## Online Diagnostic Platform
 
 For interactive social card previews and real-time metadata testing:
 
-* **[Official Meta Tags Inspector](https://tools.tavardt.com/uk/meta-tags-checker/)**
-* **[TAVARDT UK Corporate Portal](https://ag.tavardt.com/uk/)**
+* **Official Meta Tags Inspector**
+* **TAVARDT UK Corporate Portal**
 
----
+***
 
 ## Technical SEO and Metadata Advisory
 
-For enterprise digital architecture, search snippet optimisation, and compliance with W3C Standards and Technical SEO Guidelines, contact the specialists at **[TAVARDT UK](https://ag.tavardt.com/uk/contact/)**.
+For enterprise digital architecture, search snippet optimisation, and compliance with W3C Standards and Technical SEO Guidelines, contact the specialists at **TAVARDT UK**.
