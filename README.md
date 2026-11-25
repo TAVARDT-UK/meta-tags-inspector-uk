@@ -6,8 +6,6 @@
 
 Technical HTML metadata auditor inspecting title tag length, meta descriptions, social media card previews, and crawler directives.
 
-Engineered and maintained by the technical SEO and web standards practice at **TAVARDT**.
-
 ***
 
 ## Metadata and Social Card Audit Capabilities
@@ -38,15 +36,6 @@ python meta_inspector.py example.co.uk -json
 
 ***
 
-## Online Diagnostic Platform
-
-For interactive social card previews and real-time metadata testing:
-
-* **Official Meta Tags Inspector**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Technical SEO and Metadata Advisory
 
 For enterprise digital architecture, search snippet optimisation, and compliance with W3C Standards and Technical SEO Guidelines, contact the specialists at **TAVARDT**.
@@ -64,7 +53,7 @@ For enterprise digital architecture, search snippet optimisation, and compliance
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
